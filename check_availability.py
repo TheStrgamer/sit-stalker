@@ -112,7 +112,8 @@ def main():
 
     for unit_id, info in units.items():
         was_available = state.get(unit_id, {}).get("isAvailable", False)
-        state[unit_id] = info
+        if info != state.get(unit_id):
+            state[unit_id] = info
         if info["isAvailable"] and not was_available:
             newly_available.append((unit_id, info))
 
