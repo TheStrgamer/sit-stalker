@@ -1,77 +1,228 @@
-# Sit floor-availability watcher
+# SiT Housing Availability Monitor
 
-Checks bolig.sit.no's own GraphQL API every N minutes for a free room on
-your floor, and notifies you by phone push (ntfy) and/or email the moment
-one opens up. No browser automation needed — it's a plain, lightweight
-HTTP request, so it's very cheap to run on a Pi.
+A small Python bot that monitors specific SiT housing units through the SiT GraphQL API and sends a Discord notification when a room becomes available.
 
-## 1. Install (Pi or PC, Linux/macOS/WSL)
+It is designed to run automatically using **GitHub Actions**, so you do not need to keep your own computer running.
+
+## Features
+
+- Checks specific SiT housing units
+- Uses the SiT GraphQL API (no browser automation required)
+- Detects when unavailable rooms become available
+- Sends notifications through Discord webhooks
+- Stores previous availability state to avoid duplicate notifications
+- Runs automatically on a schedule with GitHub Actions
+
+---
+
+## How it works
+
+The workflow is:
+
+```
+GitHub Actions
+  |
+  v
+Run Python checker periodically
+  |
+  v
+Query SiT GraphQL API
+  |
+  v
+Compare with previous state
+  |
+  v
+Room becomes available?
+  |
+  v
+Send Discord notification
+```
+
+---
+
+## Setup
+
+### 1. Fork or clone the repository
+
+Clone the repository:
 
 ```bash
-cd sit-watcher
-pip install requests --break-system-packages   # drop the flag if not on Debian/Ubuntu
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+cd YOUR_REPOSITORY
 ```
 
-That's the only dependency.
+### 2. Install dependencies locally (optional)
 
-## 2. Configure
+Create a virtual environment:
 
 ```bash
-cp config.example.py config.py
-nano config.py
+python -m venv .venv
 ```
 
-- `UNIT_IDS` is already filled in with your floor (MAL5-501 through
-  MAL5-515). Edit if you want to watch a different set.
-- **Push notifications (recommended, easiest):** install the free [ntfy app](https://ntfy.sh)
-  on your phone, pick any unique topic name (e.g. `sit-floor5-erik-93x2`),
-  put it in `NTFY_TOPIC`, and subscribe to that same topic in the app.
-  No accounts, no API keys.
-- **Email (optional, in addition to or instead of push):** fill in
-  `EMAIL_TO`, `SMTP_USER`, `SMTP_PASS`. For Gmail you need an
-  ["app password"](https://myaccount.google.com/apppasswords), not your
-  normal login password (2-factor auth must be on).
+Activate it:
 
-## 3. Test it once
+**Linux/macOS:**
 
 ```bash
-python3 check_availability.py
+source .venv/bin/activate
 ```
 
-It'll print each unit's status and either "No newly available rooms" or
-a list of ones that just opened up. Run it a second time — it should
-again say "No newly available rooms" since nothing changed since the
-last run.
-
-To force-test the notification path: open `state.json` after the first
-run, change one unit's `"isAvailable"` to `false`, save, and re-run — it
-should now fire a notification for that unit.
-
-## 4. Run it automatically (cron)
+**Windows:**
 
 ```bash
-crontab -e
+.venv\Scripts\activate
 ```
 
-Add a line to check every 5 minutes (adjust the path):
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Configuration
+
+### 3. Configure housing units
+
+Edit `config.py`:
+
+```python
+UNIT_IDS = [
+    "12345",
+    "67890",
+]
+```
+
+Add the SiT rental object IDs you want to monitor. The script checks only these units.
+
+#### Finding unit IDs
+
+Open a SiT housing page, e.g. `https://bolig.sit.no/`.
+
+The unit ID is visible in the URL:
 
 ```
-*/5 * * * * cd /home/pi/sit-watcher && /usr/bin/python3 check_availability.py >> log.txt 2>&1
+https://bolig.sit.no/en/unit/abc123/
 ```
 
-Since this just hits a small JSON API (not a full page load), every 5
-minutes is very light — feel free to go more frequent if you want, just
-don't go overboard out of courtesy to their backend.
+The ID is `abc123`. Add it to `UNIT_IDS`.
 
-## Notes
+---
 
-- `state.json` remembers what it last saw, so you're only notified once
-  per newly-opened unit, not on every run. Delete `state.json` to reset
-  and re-notify on current state.
-- If Sit changes their API (new endpoint, new field names), the script
-  will need a small update — but GraphQL APIs like this tend to be more
-  stable than scraping HTML/CSS classes.
-- `availableFrom` in the response tells you the date a unit becomes
-  available, which may be in the future — a unit shows `isAvailable: true`
-  once bookable, worth checking that date if you want to be picky about
-  move-in timing.
+## Discord Notifications
+
+### 4. Create a Discord webhook
+
+In Discord:
+
+1. Open your server settings
+2. Go to **Integrations**
+3. Select **Webhooks**
+4. Create a new webhook
+5. Copy the webhook URL
+
+It will look like:
+
+```
+https://discord.com/api/webhooks/...
+```
+
+### 5. Add the webhook to GitHub Secrets
+
+Do not put the webhook URL directly in the code.
+
+In your GitHub repository, go to:
+
+```
+Settings → Secrets and variables → Actions → New repository secret
+```
+
+Create:
+
+- **Name:** `DISCORD_WEBHOOK_URL`
+- **Value:** your Discord webhook URL
+
+The GitHub workflow automatically provides this value when running the script.
+
+---
+
+## GitHub Actions Setup
+
+The repository contains:
+
+```
+.github/
+└── workflows/
+    └── check.yml
+```
+
+This runs the checker automatically.
+
+Example schedule:
+
+```yaml
+schedule:
+  - cron: "*/15 * * * *"
+```
+
+This checks every 15 minutes. You can change the interval using GitHub cron syntax.
+
+Examples:
+
+**Every hour:**
+
+```yaml
+cron: "0 * * * *"
+```
+
+**Every 30 minutes:**
+
+```yaml
+cron: "*/30 * * * *"
+```
+
+### Running manually
+
+You can also run it manually:
+
+```
+Repository → Actions → Check SiT availability → Run workflow
+```
+
+Useful for testing.
+
+---
+
+## Files
+
+```
+.
+├── check_availability.py     # Main checker
+├── config.py                 # Your housing configuration
+├── state.json                # Previous availability state
+├── requirements.txt          # Python dependencies
+└── .github/
+    └── workflows/
+        └── check.yml          # GitHub Actions schedule
+```
+
+---
+
+## Local testing
+
+Set your Discord webhook locally:
+
+**Linux/macOS:**
+
+```bash
+export DISCORD_WEBHOOK_URL="your webhook"
+python check_availability.py
+```
+
+**Windows PowerShell:**
+
+```powershell
+$env:DISCORD_WEBHOOK_URL="your webhook"
+python check_availability.py
+```
