@@ -1,6 +1,18 @@
-UNIT_IDS = [
-    "MAL5-501", "MAL5-502", "MAL5-503", "MAL5-504", "MAL5-505",
-    "MAL5-506", "MAL5-507", "MAL5-508", "MAL5-509", "MAL5-510",
-    "MAL5-511", "MAL5-512", "MAL5-513", "MAL5-514", "MAL5-515", 
-]
+# Every room matching ALL of these is watched. Set one to None to ignore it.
 
+# Building address. Matches whole words from the start, so "Moholt allmenning"
+# covers 2, 5, 7, 8 and 11, while "Moholt allmenning 5" is only that building.
+BUILDING_ADDRESS = "Moholt allmenning"
+
+# SiT housing type code:
+#   "HybelKB" = dorm with own bathroom in a collective
+#   "HybelK"  = dorm with shared bathroom in a collective
+#   "2rompar" = 1-bedroom apartment in a collective
+#   "1-roms", "2-roms", "3-roms", ... = apartments
+HOUSING_TYPE = "HybelKB"
+
+# Number of people sharing the kitchen (including you).
+SHARING_KITCHEN = 15
+
+# Exact rooms to watch on top of the search above, e.g. ["MAL5-501"].
+EXTRA_UNIT_IDS = []

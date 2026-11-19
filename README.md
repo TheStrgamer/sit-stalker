@@ -1,12 +1,14 @@
 # SiT Housing Availability Monitor
 
-A small Python bot that monitors specific SiT housing units through the SiT GraphQL API and sends a Discord notification when a room becomes available.
+A small Python bot that monitors SiT housing through the SiT GraphQL API and sends a Discord notification when a room becomes available.
+
+Out of the box it watches every room in **Moholt allmenning** (2, 5, 7, 8 and 11) that has a private bathroom and a kitchen shared by 15 people — 600 rooms.
 
 It is designed to run automatically using **GitHub Actions**, so you do not need to keep your own computer running.
 
 ## Features
 
-- Checks specific SiT housing units
+- Finds rooms by building, housing type and kitchen size, or watches exact room IDs
 - Uses the SiT GraphQL API (no browser automation required)
 - Detects when unavailable rooms become available
 - Sends notifications through Discord webhooks
@@ -26,7 +28,10 @@ GitHub Actions
 Run Python checker periodically
   |
   v
-Query SiT GraphQL API
+Find matching rooms (SiT CMS: address, type, kitchen size)
+  |
+  v
+Query their availability (SiT GraphQL API)
   |
   v
 Compare with previous state
@@ -83,30 +88,30 @@ pip install -r requirements.txt
 
 ## Configuration
 
-### 3. Configure housing units
+### 3. Configure which rooms to watch
 
-Edit `config.py`:
+Edit `config.py`. Every room matching **all** of these is watched; set one to `None` to ignore it:
 
 ```python
-UNIT_IDS = [
-    "12345",
-    "67890",
-]
+BUILDING_ADDRESS = "Moholt allmenning"  # or "Moholt allmenning 5" for one building
+HOUSING_TYPE = "HybelKB"                # dorm with own bathroom in a collective
+SHARING_KITCHEN = 15                    # people sharing the kitchen
+EXTRA_UNIT_IDS = []                     # exact rooms to add, e.g. ["MAL5-501"]
 ```
 
-Add the SiT rental object IDs you want to monitor. The script checks only these units.
+Housing type codes: `HybelKB` (own bathroom, collective), `HybelK` (shared bathroom, collective), `2rompar` (1-bedroom apartment in a collective), `1-roms`, `2-roms`, `3-roms`, ... (apartments).
+
+Room details come from SiT's CMS, so the list updates itself if SiT adds or removes rooms. Rooms that SiT is not offering on the portal right now are skipped until they are listed again.
 
 #### Finding unit IDs
 
-Open a SiT housing page, e.g. `https://bolig.sit.no/`.
-
-The unit ID is visible in the URL:
+The unit ID is visible in the URL of a room page:
 
 ```
-https://bolig.sit.no/en/unit/abc123/
+https://bolig.sit.no/en/unit/mal5-501/
 ```
 
-The ID is `abc123`. Add it to `UNIT_IDS`.
+The ID is `MAL5-501` (floor 5, room 01). Add it to `EXTRA_UNIT_IDS`.
 
 ---
 
