@@ -1,77 +1,3056 @@
 {
-  "MAL5-501": {
-    "isAvailable": false,
+  "MAL11-201": {
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-203": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-204": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-205": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-206": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-207": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-209": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-210": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-211": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-212": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-214": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-215": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-301": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-302": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-303": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-304": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-305": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-306": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-307": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-308": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-309": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-310": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-311": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-312": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-313": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-314": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-315": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-401": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-402": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-403": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-404": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-405": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-406": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-407": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-408": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-409": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-410": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-411": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-412": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-413": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-414": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-415": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-501": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-502": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-503": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-504": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-505": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-506": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-507": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-508": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-509": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-510": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-511": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-514": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-515": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-601": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-602": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-603": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-604": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-605": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-606": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-607": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-608": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-609": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-610": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-611": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-614": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-615": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-701": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-702": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-703": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-704": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-706": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-707": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-708": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-709": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-711": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-712": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-713": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-714": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-715": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-801": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-802": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-803": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-804": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-806": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-808": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-809": {
+    "availableFrom": "2027-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-810": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-811": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-812": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-813": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-814": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-815": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-901": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-902": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-905": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-906": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-907": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-908": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-909": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-910": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-911": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-912": {
+    "availableFrom": "2026-11-20T00:00:00.000+01:00",
+    "availableTo": "2027-07-31T00:00:00.000+02:00",
+    "hasActiveReservation": false,
+    "isAvailable": true
+  },
+  "MAL11-913": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL11-915": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-201": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-202": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-203": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-204": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-205": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-206": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-207": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-208": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-209": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-210": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-211": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-212": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-213": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-214": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-215": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-301": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-304": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-305": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-306": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-307": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-309": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-310": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-311": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-312": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-313": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-314": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-315": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-401": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-402": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-403": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-404": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-406": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-407": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-410": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-412": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-413": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-415": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-501": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-502": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-503": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-504": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-505": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-506": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-507": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-508": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-509": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-510": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-511": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-512": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-513": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-514": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-601": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-602": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-604": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-605": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-606": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-607": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-608": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-609": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-610": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-611": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-612": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-613": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-614": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-615": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-702": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-704": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-706": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-708": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-709": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-710": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-711": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-712": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-713": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-714": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-801": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-802": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-803": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-804": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-806": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-807": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-809": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-811": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-812": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-813": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-814": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-815": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-901": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-902": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-903": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-904": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-905": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-906": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-907": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-908": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-909": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-910": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-911": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-912": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-913": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-914": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL2-915": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-201": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-202": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-203": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-204": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-205": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-207": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-208": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-209": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-211": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-212": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-215": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-303": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-305": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-306": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-307": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-308": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-309": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-310": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-311": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-314": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-315": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-401": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-403": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-404": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-405": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-406": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-407": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-408": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-409": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-410": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-411": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-413": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-414": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-415": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-501": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-502": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-503": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-504": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-505": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-506": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-507": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-508": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-509": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-510": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-511": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-512": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-513": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-514": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   },
   "MAL5-515": {
-    "isAvailable": false,
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
-    "hasActiveReservation": false
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-601": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-602": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-603": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-604": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-605": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-606": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-607": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-608": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-609": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-610": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-611": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-612": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-614": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-615": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-701": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-704": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-705": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-706": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-707": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-708": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-709": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-710": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-711": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-712": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-714": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-715": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-801": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-802": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-803": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-805": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-806": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-808": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-809": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-810": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-812": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-813": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-814": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-815": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-901": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-902": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-903": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-904": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-906": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-907": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-908": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-909": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-911": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-913": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-914": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL5-915": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-202": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-203": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-204": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-205": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-206": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-208": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-210": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-211": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-212": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-214": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-215": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-302": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-303": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-304": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-306": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-307": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-308": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-309": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-311": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-312": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-313": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-314": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-315": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-401": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-402": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-403": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-404": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-405": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-406": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-407": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-408": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-411": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-412": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-413": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-414": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-415": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-501": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-504": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-505": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-506": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-507": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-508": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-509": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-511": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-512": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-514": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-515": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-601": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-603": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-605": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-606": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-608": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-609": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-610": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-611": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-612": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-613": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-615": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-702": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-703": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-704": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-705": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-706": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-707": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-708": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-710": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-712": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-714": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-715": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-801": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-802": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-803": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-804": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-805": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-806": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-807": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-809": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-810": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-811": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-812": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-813": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-814": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-815": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-901": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-902": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-903": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-905": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-907": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-908": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-910": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-911": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-912": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-913": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-914": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL7-915": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-201": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-202": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-203": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-204": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-205": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-206": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-207": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-208": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-209": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-210": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-211": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-212": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-214": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-215": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-301": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-303": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-304": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-305": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-306": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-307": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-308": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-309": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-310": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-311": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-312": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-313": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-314": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-315": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-402": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-403": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-404": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-405": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-406": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-407": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-408": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-409": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-410": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-411": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-412": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-413": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-414": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-415": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-502": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-504": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-505": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-506": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-507": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-508": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-509": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-510": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-511": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-512": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-513": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-514": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-515": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-601": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-602": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-603": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-604": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-605": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-606": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-607": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-608": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-609": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-610": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-611": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-612": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-613": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-615": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-701": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-703": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-704": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-705": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-707": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-708": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-709": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-710": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-711": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-712": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-713": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-714": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-715": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-801": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-802": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-803": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-804": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-806": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-807": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-808": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-809": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-810": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-812": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-814": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-815": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-901": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-902": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-903": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-904": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-905": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-906": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-907": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-908": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-909": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-910": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-911": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-912": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
+  "MAL8-914": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
   }
 }
