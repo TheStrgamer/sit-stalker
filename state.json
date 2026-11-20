@@ -629,6 +629,12 @@
     "hasActiveReservation": false,
     "isAvailable": false
   },
+  "MAL11-914": {
+    "availableFrom": "2028-08-01T00:00:00.000+02:00",
+    "availableTo": null,
+    "hasActiveReservation": false,
+    "isAvailable": false
+  },
   "MAL11-915": {
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
     "availableTo": null,
@@ -890,12 +896,6 @@
   "MAL2-506": {
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
     "availableTo": null,
-    "hasActiveReservation": false,
-    "isAvailable": false
-  },
-  "MAL2-507": {
-    "availableFrom": "2027-01-23T00:00:00.000+01:00",
-    "availableTo": "2027-07-31T00:00:00.000+02:00",
     "hasActiveReservation": false,
     "isAvailable": false
   },
