@@ -618,10 +618,10 @@
     "isAvailable": false
   },
   "MAL11-912": {
-    "availableFrom": "2026-11-23T00:00:00.000+01:00",
+    "availableFrom": "2026-11-19T00:00:00.000+01:00",
     "availableTo": "2027-07-31T00:00:00.000+02:00",
-    "hasActiveReservation": false,
-    "isAvailable": true
+    "hasActiveReservation": true,
+    "isAvailable": false
   },
   "MAL11-913": {
     "availableFrom": "2028-08-01T00:00:00.000+02:00",
